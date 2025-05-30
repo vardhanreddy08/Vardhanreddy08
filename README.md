@@ -1,4 +1,4 @@
-### Hi there, I'm [vardhan reddy] 👋
+### Hi there, I'm vardhan reddy 👋
 
 🎓 I'm a B.Tech student passionate about Web Development  
 🌱 Currently learning HTML, CSS, JavaScript and React  
