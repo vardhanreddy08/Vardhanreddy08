@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi there, I'm [vardhan reddy] 👋
+
+🎓 I'm a B.Tech student passionate about Web Development  
+🌱 Currently learning HTML, CSS, JavaScript and React  
+💡 Looking for internships to grow and contribute  
+📘 I love learning and helping others grow  
+🛠️ Projects coming soon!
+
+
 
 <!--
 **vardhanreddy08/Vardhanreddy08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
